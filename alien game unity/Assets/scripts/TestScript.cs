@@ -18,7 +18,7 @@ public class TestScript : MonoBehaviour
     void Update()
     {
         //spams text in console
-        Debug.Log("hello");
+
 
         //smoothly moves image
         transform.Translate(0.0005f, 0, 0);
